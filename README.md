@@ -1,1 +1,1 @@
-# node online 채팅 프로젝트
+# node online 채팅 프로젝트 따라하기
